@@ -8,15 +8,15 @@ app = Flask(__name__)
 
 @app.route('/', strict_slashes=False, methods=['GET'])
 def display():
-    return render_template('index.html')
+    return render_template('text.html')
 
-@app.route("/character", methods=['GET', 'POST'], strict_slashes=False)
+@app.route("/", methods=['GET', 'POST'], strict_slashes=False)
 def char():
     argument = request.form["character"]
     if len(argument) < 1:
-        return render_template('index.html')
+        return render_template('text.html')
     word_associations = decom(argument)
-    return word_associations
+    return render_template('text.html', **locals())
 
 if __name__ == '__main__':
     app.run(host="0.0.0.0", port="5000")
