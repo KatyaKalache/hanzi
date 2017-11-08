@@ -17,7 +17,8 @@ hr {
   border-color: #F05F40; }
 
 hr.light {
-  border-color: white; }
+  border-color: grey;
+ }
 
 a {
   color: #F05F40;
@@ -35,6 +36,7 @@ h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
 
+
 p {
   font-size: 16px;
   line-height: 1.5;
@@ -44,14 +46,14 @@ p {
   background-color: #F05F40 !important; }
 
 .bg-dark {
-  color: white;
+  color: #222222;
   background-color: #222222 !important; }
 
 .text-faded {
   color: rgba(255, 255, 255, 0.7); }
 
 section {
-  padding: 100px 0; }
+  padding: 10px 0; }
 
 .section-heading {
   margin-top: 0; }
@@ -95,13 +97,13 @@ body {
     font-size: 12px;
     font-weight: 700;
     text-transform: uppercase;
-    color: #222222; }
+    color: #F05F40; }
   #mainNav .navbar-nav > li.nav-item > a.nav-link:focus,
   #mainNav .navbar-nav > li.nav-item > a.nav-link {
     font-size: 13px;
     font-weight: 700;
     text-transform: uppercase;
-    color: #222222; }
+    color: black; }
     #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover,
     #mainNav .navbar-nav > li.nav-item > a.nav-link:hover {
       color: #F05F40; }
@@ -136,7 +138,7 @@ body {
             color: #f05f40; }
         #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link,
         #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus {
-          color: #222222; }
+          color: white; }
           #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:hover,
           #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus:hover {
             color: #F05F40; } }
@@ -146,7 +148,7 @@ header.masthead {
   width: 100%;
   min-height: auto;
   text-align: center;
-  color: white;
+  color: #f05f40;
   background-image: url("../img/header.jpg");
   background-position: center;
   -webkit-background-size: cover;
