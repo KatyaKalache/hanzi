@@ -4,13 +4,13 @@ You don't need to learn 50k Chinese character. Focus on 200 radicals. Each chara
 | Character menaing |
 |------|
 |`闷` `unhappy, gloomy`  |
-|---|
+|-----------|
 | Character decompostion |
 |`门` `gate`|
 |`心` `heart`|
 
 ## Usage
-![website](http://hanzi.space/)
+http://hanzi.space/
 
 Enter a character into the search bar: 森 and hit enter
 ![森](https://i.imgur.com/8TOoWcN.png)
