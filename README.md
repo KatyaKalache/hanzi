@@ -4,24 +4,22 @@ You don't need to learn 50k Chinese character. Focus on 200 radicals. Each chara
 | Character menaing |
 |------|
 |`闷` `unhappy, gloomy`  |
+
 | Character decompostion   |
-|----------------|
 |    `门` `gate`|
 |    `心` `heart` |
 
 ## Usage
-[http://hanzi.space/]
+![website][http://hanzi.space/]
 
 Enter a character into the search bar: 森 and hit enter
-[森](https://i.imgur.com/8TOoWcN.png)
+![森](https://i.imgur.com/8TOoWcN.png)
 | Character menaing |
 |------|
 |`森` `forest`  |
-| Character decompostion   |
-|----------------|
 |    `木` `tree`|
 |    `森`=> `木` + `木` + `木` - `3 trees give us forest`|
 
-[森](https://i.imgur.com/8ICVMVk.png)
+![森](https://i.imgur.com/8ICVMVk.png)
 
 Ekaterina Kalache: [github account](https://github.com/KatyaKalache), [twitter](https://twitter.com/KatyaKalache)
